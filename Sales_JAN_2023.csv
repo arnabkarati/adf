@@ -1,0 +1,32 @@
+Order Date,Customer First Name,Customer Last Name,Post Code,Region,Region Code,Product,Quantity,Sales$
+01-01-2023,Rachel,Anderson,UK-123456,Europe,EMEA,Phone,7,700
+02-01-2023,Richard,Thomas,US-578979,america [usa],NA,Tablet,44,600
+03-01-2023,Michelle,Moore,US-567987,america,NA,Headset,42,180
+04-01-2023,Ashley,Jackson,UK-124356,Europe central,EMEA,Speaker,37,160
+05-01-2023,Christopher,Martin,US-576779,america [usa],NA,Watch,15,380
+06-01-2023,Joshua,Lee,CA-589478,america CA,NA,Laptop,55,1200
+07-01-2023,Ashley,Lewis,UK-123456,Europe,EMEA,Phone,34,720
+08-01-2023,Ryan,Green,US-578979,America,NA,Tablet,57,650
+09-01-2023,Charles,Hall,US-589478,america,NA,Headset,41,170
+10-01-2023,Brandon,Baker,UK-123456,Europe central,EMEA,Speaker,16,140
+11-01-2023,Matthew,Nelson,US-578979,America,NA,Watch,31,390
+12-01-2023,Nathan,Carter,US-589478,america,NA,Laptop,28,1100
+13-01-2023,Sarah,Kim,UK-123456,Europe,EMEA,Laptop,47,1500
+14-01-2023,John,Smith,US-565879,America,NA,Phone,31,2000
+15-01-2023,Michael,Brown,US-589478,america,NA,Tablet,58,2500
+16-01-2023,David,Johnson,UK-124356,Europe central,EMEA,TV,6,3000
+17-01-2023,Maria,Garcia,US-578879,America,NA,Headphone,56,3500
+18-01-2023,Jennifer,Davis,CA-575678,america CA,NA,Smartwatch,20,4000
+19-01-2023,James,Wilson,UK-123456,Europe,EMEA,Speakers,8,4500
+20-01-2023,Sarah,Martinez,IN-567897,Asia,APAC,Gaming Console,44,5000
+21-01-2023,John,Anderson,CA-567987,america CA,NA,Printer,29,5500
+22-01-2023,Michael,Taylor,UK-124356,Europe central,EMEA,Router,42,6000
+23-01-2023,John,Doe,CA-567987,america CA,NA,Laptop,46,1000
+24-01-2023,Jane,Doe,UK-124356,Europe,EMEA,Phone,54,800
+25-01-2023,Michael,Smith,IN-576779,Asia,APAC,Tablet,32,500
+26-01-2023,David,Johnson,CA-589478,america CA,NA,Headset,13,200
+27-01-2023,Elizabeth,Brown,UK-123456,Europe central,EMEA,Speaker,51,150
+28-01-2023,Kevin,Davis,NP-578979,Asia,APAC,Watch,9,400
+29-01-2023,Sarah,Wilson,CA-589478,america CA,NA,Laptop,49,1300
+30-01-2023,Rachel,Anderson,UK-123456,Europe,EMEA,Phone,53,700
+31-01-2023,Richard,Thomas,PK-578979,Asia Pacific,APAC,Tablet,11,600

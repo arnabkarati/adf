@@ -1,0 +1,18 @@
+Order Date,Customer First Name,Customer Last Name,Post Code,Region,Region Code,Product,Quantity,Sales$
+15-12-2022,Sarah,Kim,UK-123456,Europe,EMEA,Laptop,28,1500
+16-12-2022,John,Smith,US-565879,america,NA,Phone,16,2000
+17-12-2022,Michael,Brown,US-589478,america,NA,Tablet,45,2500
+18-12-2022,David,Johnson,UK-124356,Europe central,EMEA,TV,57,3000
+19-12-2022,Maria,Garcia,US-578879,america [usa],NA,Headphone,51,3500
+20-12-2022,Jennifer,Davis,US-575678,america,NA,Smartwatch,48,4000
+21-12-2022,James,Wilson,UK-123456,Europe central,EMEA,Speakers,45,4500
+22-12-2022,Sarah,Martinez,IN-567897,Asia,APAC,Gaming Console,25,5000
+23-12-2022,John,Anderson,CA-567987,america [CA],NA,Printer,47,5500
+24-12-2022,Michael,Taylor,UK-124356,Europe central,EMEA,Router,42,6000
+25-12-2022,John,Doe,CA-567987,america CA,NA,Laptop,16,1000
+26-12-2022,Jane,Doe,UK-124356,Europe central,EMEA,Phone,48,800
+27-12-2022,Michael,Smith,US-576779,america [usa],NA,Tablet,30,500
+28-12-2022,David,Johnson,CA-589478,america CA,NA,Headset,17,200
+29-12-2022,Elizabeth,Brown,UK-123456,Europe,EMEA,Speaker,5,150
+30-12-2022,Kevin,Davis,US-578979,america [usa],NA,Watch,50,400
+31-12-2022,Sarah,Wilson,CA-589478,america CA,NA,Laptop,60,1300
